@@ -1,4 +1,4 @@
-; show horizontal lines
+; shows horizontal lines
 
 ; screen area start
 define screenLB $00
